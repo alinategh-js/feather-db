@@ -1,3 +1,2 @@
-# feather-lite
-An open-source, lightweight and cross-platform notepad application for desktop, built from scratch in Rust
- test
+# FeatherDB
+An open-source, lightweight and cross-platform database engine written in Rust.
